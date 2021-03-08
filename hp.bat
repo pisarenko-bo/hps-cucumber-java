@@ -1,0 +1,1 @@
+hiptest-publisher -c cucumber-java.conf %*
